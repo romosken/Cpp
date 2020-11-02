@@ -44,4 +44,5 @@ int main(){
 		puts ("Resultado:");
 		printf ("%2.2f\n",soma);
 	}
+	system("pause");
 }
